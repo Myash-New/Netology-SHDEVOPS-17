@@ -23,4 +23,6 @@ https://github.com/Myash-New/Netology-SHDEVOPS-17/blob/main/05-virt-03-docker/Ta
 https://github.com/Myash-New/Netology-SHDEVOPS-17/blob/main/05-virt-03-docker/Task5%20%20p1.jpg
 https://github.com/Myash-New/Netology-SHDEVOPS-17/blob/main/05-virt-03-docker/Task5%20%20p2.jpg
 https://github.com/Myash-New/Netology-SHDEVOPS-17/blob/main/05-virt-03-docker/Task5%20%20portainer%20.jpg
+
+
 И выполните команду "docker compose up -d". Какой из файлов был запущен и почему? Docker Compose автоматически выбрал файл compose.yaml, так как он имеет более высокий приоритет. В результате был запущен сервис Portainer.
